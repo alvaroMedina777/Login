@@ -1,0 +1,10 @@
+/* src/components/Login.css */
+.login-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 1rem;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
